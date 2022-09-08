@@ -60,15 +60,15 @@ class LinkedList:
             print("Position out of range")
     
     
-call = LinkedList()
-n = Node(10)
-call.head = n
-n1 = Node(20)
-n.next = n1 # call.head.next = n1+-*
-call.insert_front(50)
-call.insert_end(60)
-call.insert_middle(80)
-call.display()
+# call = LinkedList()
+# n = Node(10)
+# call.head = n
+# n1 = Node(20)
+# n.next = n1 # call.head.next = n1+-*
+# call.insert_front(50)
+# call.insert_end(60)
+# call.insert_middle(80)
+# call.display()
 
-if __name__ == "__main__":
-    print("inside main")
+# if __name__ == "__main__":
+#     print("inside main")
